@@ -51,7 +51,7 @@ export default function About() {
                 <p className="text-xs uppercase tracking-widest text-gray-500">Years Experience</p>
               </div>
               <div>
-                <p className="text-gold text-4xl font-serif mb-1">569+</p>
+                <p className="text-gold text-4xl font-serif mb-1">8965+</p>
                 <p className="text-xs uppercase tracking-widest text-gray-500">Events Covered</p>
               </div>
             </div>
